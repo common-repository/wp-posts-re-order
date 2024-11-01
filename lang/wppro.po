@@ -1,0 +1,129 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Posts re-order\n"
+"POT-Creation-Date: 2014-07-25 03:14+0800\n"
+"PO-Revision-Date: 2014-07-26 02:01+0800\n"
+"Last-Translator: Coolwp <coolwp.com@gmail.com>\n"
+"Language-Team: suoling.net <suifengtec@qq.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: wp-posts-re-order.php:46
+msgid "Posts Re-order"
+msgstr ""
+
+#: wp-posts-re-order.php:121
+msgid " must be configured. Please go to"
+msgstr ""
+
+#: wp-posts-re-order.php:121
+msgid "Settings Page"
+msgstr ""
+
+#: wp-posts-re-order.php:121
+msgid "make the configuration and save"
+msgstr ""
+
+#: wp-posts-re-order.php:358
+msgid "Invalid post type"
+msgstr ""
+
+#: wp-posts-re-order.php:411 wp-posts-re-order.php:415
+#: wp-posts-re-order.php:425
+msgid "Re-Order"
+msgstr ""
+
+#: wp-posts-re-order.php:429
+msgid ""
+"This plugin can't work without javascript, because it's use drag and drop "
+"and AJAX."
+msgstr ""
+
+#: wp-posts-re-order.php:442 wp-posts-re-order.php:654
+msgid "Save Changes"
+msgstr ""
+
+#: wp-posts-re-order.php:458
+msgid "Items Order Updated"
+msgstr ""
+
+#: wp-posts-re-order.php:474
+msgid "Pages"
+msgstr ""
+
+#: wp-posts-re-order.php:572
+msgid "Settings Saved"
+msgstr ""
+
+#: wp-posts-re-order.php:578
+msgid "General Settings"
+msgstr ""
+
+#: wp-posts-re-order.php:584
+msgid "Minimum Level to use this plugin"
+msgstr ""
+
+#: wp-posts-re-order.php:587
+msgid "Subscriber"
+msgstr ""
+
+#: wp-posts-re-order.php:588
+msgid "Contributor"
+msgstr ""
+
+#: wp-posts-re-order.php:589
+msgid "Author"
+msgstr ""
+
+#: wp-posts-re-order.php:590
+msgid "Editor"
+msgstr ""
+
+#: wp-posts-re-order.php:591
+msgid "Administrator"
+msgstr ""
+
+#: wp-posts-re-order.php:597
+msgid "Auto Sort"
+msgstr ""
+
+#: wp-posts-re-order.php:601
+msgid ""
+"If checked, this plugin will automatically update the wp-queries to use the "
+"new order.<br /> If you need more order customizations, you can uncheck this "
+"and include 'menu_order' into your  queries"
+msgstr ""
+
+#: wp-posts-re-order.php:602
+msgid "Examples"
+msgstr ""
+
+#: wp-posts-re-order.php:605
+msgid "The following PHP code will still return the post in the set-up Order"
+msgstr ""
+
+#: wp-posts-re-order.php:618
+msgid "Or"
+msgstr ""
+
+#: wp-posts-re-order.php:627
+msgid ""
+"If the Auto Sort is uncheck you will need to use the \"orderby\" and \"order"
+"\" parameters"
+msgstr ""
+
+#: wp-posts-re-order.php:641
+msgid "Sort Backend post list?"
+msgstr ""
+
+#: wp-posts-re-order.php:645
+msgid "To affect the backend post list, this need to be checked"
+msgstr ""

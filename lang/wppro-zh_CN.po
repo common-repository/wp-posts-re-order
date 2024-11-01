@@ -1,0 +1,162 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Posts Re-order\n"
+"POT-Creation-Date: 2014-07-25 03:30+0800\n"
+"PO-Revision-Date: 2014-07-25 03:31+0800\n"
+"Last-Translator: Coolwp <coolwp.com@gmail.com>\n"
+"Language-Team: Suoling.net <suifengtec@qq.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: wp-posts-re-order.php:46
+msgid "Posts Re-order"
+msgstr "Posts Re-order"
+
+#: wp-posts-re-order.php:121
+msgid " must be configured. Please go to"
+msgstr "需要进行配置，请到"
+
+#: wp-posts-re-order.php:121
+msgid "Settings Page"
+msgstr "设置页面"
+
+#: wp-posts-re-order.php:121
+msgid "make the configuration and save"
+msgstr "进行配置并保存"
+
+#: wp-posts-re-order.php:358
+msgid "Invalid post type"
+msgstr "不可用的文章类型"
+
+#: wp-posts-re-order.php:411 wp-posts-re-order.php:415
+#: wp-posts-re-order.php:429
+msgid "Re-Order"
+msgstr "重新排序"
+
+#: wp-posts-re-order.php:434
+msgid ""
+"This plugin can't work without javascript, because it's use drag and drop "
+"and AJAX."
+msgstr ""
+"这个插件需要浏览器支持javascript才可使用，因为它的拖动排序采用的是AJAX。"
+
+#: wp-posts-re-order.php:446 wp-posts-re-order.php:657
+msgid "Save Changes"
+msgstr "保存更改 "
+
+#: wp-posts-re-order.php:462
+msgid "Items Order Updated"
+msgstr "已排序"
+
+#: wp-posts-re-order.php:478
+msgid "Pages"
+msgstr "页面"
+
+#: wp-posts-re-order.php:576
+msgid "Settings Saved"
+msgstr "设置已保存"
+
+#: wp-posts-re-order.php:581
+msgid "General Settings"
+msgstr "常规设置"
+
+#: wp-posts-re-order.php:587
+msgid "Minimum Level to use this plugin"
+msgstr "使用此插件的最低等级"
+
+#: wp-posts-re-order.php:590
+msgid "Subscriber"
+msgstr "订阅者"
+
+#: wp-posts-re-order.php:591
+msgid "Contributor"
+msgstr "贡献者"
+
+#: wp-posts-re-order.php:592
+msgid "Author"
+msgstr "作者"
+
+#: wp-posts-re-order.php:593
+msgid "Editor"
+msgstr "编辑"
+
+#: wp-posts-re-order.php:594
+msgid "Administrator"
+msgstr "管理员"
+
+#: wp-posts-re-order.php:600
+msgid "Auto Sort"
+msgstr "自动排序"
+
+#: wp-posts-re-order.php:604
+msgid ""
+"If checked, this plugin will automatically update the wp-queries to use the "
+"new order.<br /> If you need more order customizations, you can uncheck this "
+"and include 'menu_order' into your  queries"
+msgstr ""
+"选中此项后，插件将会使Wordpress的查询使用新的排序方案.<br /> 如果您需要更多排"
+"序自定义方式，您需要取消此项，并在您的查询中包含'menu_order'."
+
+#: wp-posts-re-order.php:605
+msgid "Examples"
+msgstr "示例 "
+
+#: wp-posts-re-order.php:608
+msgid "The following PHP code will still return the post in the set-up Order"
+msgstr "下面的PHP代码将会返回设置后排序的文章"
+
+#: wp-posts-re-order.php:621
+msgid "Or"
+msgstr "或者"
+
+#: wp-posts-re-order.php:630
+msgid ""
+"If the Auto Sort is uncheck you will need to use the \"orderby\" and \"order"
+"\" parameters"
+msgstr ""
+"如果自动排序未被选中，您需要在Wordpress查询中使用\"orderby\" 和 \"order\" 参"
+"数。"
+
+#: wp-posts-re-order.php:644
+msgid "Sort Backend post list?"
+msgstr "排序影响文章管理列表？"
+
+#: wp-posts-re-order.php:648
+msgid "To affect the backend post list, this need to be checked"
+msgstr "如果您想让自定义的文章排序在文章管理页面也有效果，请选中此项。 "
+
+#~ msgid "Update"
+#~ msgstr "更新"
+
+#~ msgid "Admin Sort"
+#~ msgstr "管理员排序"
+
+#~ msgid ""
+#~ "Did you find this plugin useful? Please support our work with a donation "
+#~ "or write an article about this plugin in your blog with a link to our site"
+#~ msgstr ""
+#~ "局的这个插件有用？请捐赠我们，或者在您的博客写一篇介绍这个插件的文章吧。"
+
+#~ msgid "Did you know there is available an Advanced version of this plug-in?"
+#~ msgstr "您知道吗：这个插件有其对应的高级版本！"
+
+#~ msgid "Read more"
+#~ msgstr "了解更多"
+
+#~ msgid "Check our"
+#~ msgstr "检查我们的"
+
+#~ msgid ""
+#~ "plugin which allow to custom sort categories and custom taxonomies terms"
+#~ msgstr "分类和自定义分类的排序插件"
+
+#~ msgid "General"
+#~ msgstr "常规"
